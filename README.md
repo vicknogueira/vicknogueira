@@ -2,7 +2,7 @@
 
 _____________________________________________________________________________
 My curiosity made me who I am today, passionate about technology. I'm a Full Stack Developer, constantly learning.
-<code><p style="text-align: center">do what you love</p></code>
+<p style='text-align: center'>do what you love</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vicknogueira)](https://github.com/vicknogueira/vicknogueira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vitoria-nogueira-vn/)](https://www.linkedin.com/in/fagnerpsantos/)
